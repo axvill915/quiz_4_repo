@@ -1,4 +1,4 @@
-def hello_world(name):
-    print("Say hello to this world, " + name)
+def hello_world(name, lastname):
+    print("Say hello to this world, " + name + " " + lastname)
 
-hello_world("Angel")
+hello_world("Angel", "Villalpando")
